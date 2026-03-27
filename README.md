@@ -1,2 +1,3 @@
-# 1st-one
-creating a full ai based app
+# movie recommender system
+created by tharusha karunarathna 
+rysera stem final project
